@@ -6,3 +6,4 @@ Pull requests 的作用是： 当从别人那里fork(复制粘贴)了一份仓�
 2 commits 表示这个文件修改过2次，点击的话，能够看到每次做了什么样的修改
 
 upload files 可以上传文件（从本地）
+find files 可以搜索文件
